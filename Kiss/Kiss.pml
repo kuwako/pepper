@@ -10,5 +10,6 @@
     <Topics />
     <IgnoredPaths>
         <Path src=".metadata" />
+        <Path src="behavior_1/.behavior.xar.swp" />
     </IgnoredPaths>
 </Package>
