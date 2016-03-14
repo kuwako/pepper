@@ -964,7 +964,7 @@ class MyClass(GeneratedClass):
 			"Finnish" : " Hei ",
 			"French" : " Bonjour ",
 			"Italian" : " Ciao ",
-			"Japanese" : " おっさん！ ",
+			"Japanese" : " よう、おっさん！ ",
 			"Korean" : " 안녕하세요 ",
 			"Dutch" : " Hallo ",
 			"Norwegian" : "  ",
@@ -1014,7 +1014,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[Ciao]]>
 </italian>
                                                     <japanese>
-                                                        <![CDATA[おっさん！]]>
+                                                        <![CDATA[よう、おっさん！]]>
 </japanese>
                                                     <korean>
                                                         <![CDATA[안녕하세요]]>
@@ -1071,8 +1071,8 @@ class MyClass(GeneratedClass):
                         <Link inputowner="2" indexofinput="2" outputowner="10" indexofoutput="3" />
                         <Link inputowner="1" indexofinput="2" outputowner="6" indexofoutput="4" />
                         <Link inputowner="7" indexofinput="2" outputowner="6" indexofoutput="5" />
-                        <Link inputowner="8" indexofinput="2" outputowner="7" indexofoutput="4" />
                         <Link inputowner="0" indexofinput="4" outputowner="8" indexofoutput="4" />
+                        <Link inputowner="8" indexofinput="2" outputowner="7" indexofoutput="3" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>
